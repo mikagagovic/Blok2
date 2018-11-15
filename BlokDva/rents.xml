@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rent>
+    <User>
+      <Username>mikaClient</Username>
+      <Password>mika</Password>
+      <Name>Mileva</Name>
+      <Lastname>Gagovic</Lastname>
+      <IsAdmin>false</IsAdmin>
+      <IsGolden>false</IsGolden>
+      <NumberOfVehicles>0</NumberOfVehicles>
+      <NumberPerDay>2</NumberPerDay>
+    </User>
+    <Vehicle>
+      <Name>Golf</Name>
+      <Model>2</Model>
+      <Year>1991</Year>
+      <PricePerHour>0</PricePerHour>
+      <PriceVehicle>5000</PriceVehicle>
+      <Available>false</Available>
+    </Vehicle>
+    <StartTime>2018-11-14T23:48:10.4898271+01:00</StartTime>
+    <EndTime>2018-11-14T23:48:10.4898271+01:00</EndTime>
+  </Rent>
+  <Rent>
+    <User>
+      <Username>mikaClient</Username>
+      <Password>mika</Password>
+      <Name>Mileva</Name>
+      <Lastname>Gagovic</Lastname>
+      <IsAdmin>false</IsAdmin>
+      <IsGolden>false</IsGolden>
+      <NumberOfVehicles>0</NumberOfVehicles>
+      <NumberPerDay>2</NumberPerDay>
+    </User>
+    <Vehicle>
+      <Name>Tesla</Name>
+      <Model>T</Model>
+      <Year>2017</Year>
+      <PricePerHour>15</PricePerHour>
+      <PriceVehicle>40000</PriceVehicle>
+      <Available>false</Available>
+    </Vehicle>
+    <StartTime>2018-11-15T00:01:13.0235855+01:00</StartTime>
+    <EndTime>2018-11-15T00:01:13.0235855+01:00</EndTime>
+  </Rent>
+</ArrayOfRent>

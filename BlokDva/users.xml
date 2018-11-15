@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Username>mikaAdmin</Username>
+    <Password>admin</Password>
+    <Name>admin</Name>
+    <Lastname>admin</Lastname>
+    <IsAdmin>true</IsAdmin>
+    <IsGolden>true</IsGolden>
+    <NumberOfVehicles>0</NumberOfVehicles>
+    <NumberPerDay>0</NumberPerDay>
+  </User>
+  <User>
+    <Username>mikaClient</Username>
+    <Password>mika</Password>
+    <Name>Mileva</Name>
+    <Lastname>Gagovic</Lastname>
+    <IsAdmin>false</IsAdmin>
+    <IsGolden>false</IsGolden>
+    <NumberOfVehicles>5</NumberOfVehicles>
+    <NumberPerDay>1</NumberPerDay>
+  </User>
+</ArrayOfUser>

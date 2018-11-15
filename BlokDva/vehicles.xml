@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle>
+    <Name>Golf</Name>
+    <Model>2</Model>
+    <Year>1991</Year>
+    <PricePerHour>0</PricePerHour>
+    <PriceVehicle>5000</PriceVehicle>
+    <Available>false</Available>
+  </Vehicle>
+  <Vehicle>
+    <Name>Tesla</Name>
+    <Model>T</Model>
+    <Year>2017</Year>
+    <PricePerHour>15</PricePerHour>
+    <PriceVehicle>40000</PriceVehicle>
+    <Available>false</Available>
+  </Vehicle>
+   <Vehicle>
+    <Name>Mazda</Name>
+    <Model>cx</Model>
+    <Year>2010</Year>
+    <PricePerHour>200</PricePerHour>
+    <PriceVehicle>8000</PriceVehicle>
+    <Available>true</Available>
+  </Vehicle>
+   <Vehicle>
+    <Name>BMW</Name>
+    <Model>x</Model>
+    <Year>2018</Year>
+    <PricePerHour>3000</PricePerHour>
+    <PriceVehicle>90000</PriceVehicle>
+    <Available>true</Available>
+  </Vehicle>
+</ArrayOfVehicle>

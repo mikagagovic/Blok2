@@ -1,0 +1,111 @@
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\WPF.exe.config
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\WPF.exe
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\WPF.pdb
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\App.g.cs
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\MainWindow.baml
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.g.resources
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.exe
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\WPF.pdb
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\Common.dll
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\Common.pdb
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\View\AdminView.g.cs
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\View\AdminView.baml
+C:\Users\Mika\Desktop\BlokDva\WPF\bin\Debug\WPF.exe.config
+C:\Users\Mika\Desktop\BlokDva\WPF\bin\Debug\WPF.exe
+C:\Users\Mika\Desktop\BlokDva\WPF\bin\Debug\WPF.pdb
+C:\Users\Mika\Desktop\BlokDva\WPF\bin\Debug\Common.dll
+C:\Users\Mika\Desktop\BlokDva\WPF\bin\Debug\Common.pdb
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\View\AdminView.g.cs
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\App.g.cs
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\MainWindow.baml
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\View\AdminView.baml
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.g.resources
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.csproj.CopyComplete
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.exe
+C:\Users\Mika\Desktop\BlokDva\WPF\obj\Debug\WPF.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\WPF.exe.config
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\WPF.exe
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\WPF.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\Common.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\Common.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\View\AdminView.g.cs
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\App.g.cs
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\MainWindow.baml
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\View\AdminView.baml
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.g.resources
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.csproj.CopyComplete
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.exe
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\obj\Debug\WPF.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\WPF\bin\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\BlokDva\WPF\bin\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\View\RegularView.g.cs
+C:\Users\Nenad\Desktop\BlokDva\WPF\obj\Debug\View\RegularView.baml
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.exe.config
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.exe
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\View\AdminView.g.cs
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\View\RegularView.g.cs
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\App.g.cs
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.exe
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\Common.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\Common.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\bin\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\MainWindow.baml
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\View\AdminView.baml
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\View\RegularView.baml
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.g.resources
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Nenad\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.exe.config
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.exe
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\WPF.pdb
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\Common.dll
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\Common.pdb
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\bin\Debug\SecurityManager.pdb
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\View\AdminView.g.cs
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\View\RegularView.g.cs
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\App.g.cs
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\MainWindow.baml
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\View\AdminView.baml
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\View\RegularView.baml
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.g.resources
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.csproj.CopyComplete
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.exe
+C:\Users\Mika\Desktop\cert\BlokDva\WPF\obj\Debug\WPF.pdb

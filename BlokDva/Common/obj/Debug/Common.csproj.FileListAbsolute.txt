@@ -1,0 +1,20 @@
+C:\Users\Nenad\Desktop\BlokDva\Common\bin\Debug\Common.dll
+C:\Users\Nenad\Desktop\BlokDva\Common\bin\Debug\Common.pdb
+C:\Users\Nenad\Desktop\BlokDva\Common\obj\Debug\Common.dll
+C:\Users\Nenad\Desktop\BlokDva\Common\obj\Debug\Common.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\Common\bin\Debug\Common.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\Common\bin\Debug\Common.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\Common\obj\Debug\Common.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\Common\obj\Debug\Common.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\Common\bin\Debug\Common.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\Common\bin\Debug\Common.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\Common\obj\Debug\Common.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\Common\obj\Debug\Common.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Desktop\cert\BlokDva\Common\bin\Debug\Common.dll
+C:\Users\Mika\Desktop\cert\BlokDva\Common\bin\Debug\Common.pdb
+C:\Users\Mika\Desktop\cert\BlokDva\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Mika\Desktop\cert\BlokDva\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\cert\BlokDva\Common\obj\Debug\Common.dll
+C:\Users\Mika\Desktop\cert\BlokDva\Common\obj\Debug\Common.pdb

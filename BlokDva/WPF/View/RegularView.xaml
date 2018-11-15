@@ -1,0 +1,44 @@
+﻿<Window x:Class="WPF.View.RegularView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.View"
+        mc:Ignorable="d"
+        Title="RegularView" Height="350" Width="550">
+
+    <Grid>
+        <TabControl>
+            <TabItem Header="Golden membership">
+                <Grid>
+                    <Button Content="Change" HorizontalAlignment="Left" Margin="227,140,0,0" VerticalAlignment="Top" Width="75" Click="ButtonGolden_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Vehicles">
+                <Grid>
+                    <DataGrid ItemsSource="{Binding Path=List, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Selected}" AutoGenerateColumns="False" Height="247" HorizontalAlignment="Left" Margin="129,31,0,0" Name="dataGrid" VerticalAlignment="Top" Width="393" SelectionMode="Single" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Width="*" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Model" Width="*" Binding="{Binding Model}" />
+                            <DataGridTextColumn Header="Year" Width="*" Binding="{Binding Year}" />
+                            <DataGridTextColumn Header="PricePerHour" Width="*" Binding="{Binding PricePerHour}" />
+                            <DataGridTextColumn Header="PriceVehicle" Width="*" Binding="{Binding PriceVehicle}" />
+                            <DataGridTextColumn Header="Available" Width="*" Binding="{Binding Available}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button x:Name="Rent" Content="Rent" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Command="{Binding RentVehicleCommand}" />
+
+                    <DatePicker HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top" SelectedDateChanged="DatePicker_SelectedDateChanged"/>
+                    <TextBox x:Name="billTextBox" HorizontalAlignment="Left" Height="23" Margin="10,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="LogOut">
+                <Grid>
+                    <Button x:Name="LogOut" Content="LogOut" HorizontalAlignment="Left" Margin="217,117,0,0" VerticalAlignment="Top" Width="75" Click="LogOut_Click" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

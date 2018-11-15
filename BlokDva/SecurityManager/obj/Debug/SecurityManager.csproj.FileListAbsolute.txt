@@ -1,0 +1,22 @@
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\Mika\Desktop\blok 2\BlokDva\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\Nenad\Desktop\BlokDva\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\BlokDva\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\BlokDva\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\BlokDva\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\BlokDva\SecurityManager\obj\Debug\SecurityManager.csprojResolveAssemblyReference.cache
+C:\Users\Nenad\Desktop\cert\BlokDva\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Nenad\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.pdb
+C:\Users\Nenad\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Mika\Desktop\cert\BlokDva\SecurityManager\obj\Debug\SecurityManager.pdb
